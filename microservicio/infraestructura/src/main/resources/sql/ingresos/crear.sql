@@ -1,0 +1,1 @@
+insert into ingreso(descripcion,valor) values(:descripcion,:valor)
